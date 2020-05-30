@@ -1,0 +1,15 @@
+.formControl {
+  width: 40%;
+  /* margin-top: 2% !important; */
+  margin-bottom: 1% !important;
+  margin-left: 30% !important;
+  margin-right: 30% !important;
+  background-color: black; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white, rgb(226, 224, 224)); /* Standard syntax (must be last) */
+  border-color: black;
+}
+.divv{
+  margin-top: 2% !important;
+  font-size: xx-large;
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 20px;
+  font-size: 30px;
+  color: rgb(40, 156, 156);
+}
+.time{
+  text-align: center;
+  color: rgb(69, 138, 138);
+}
+
+

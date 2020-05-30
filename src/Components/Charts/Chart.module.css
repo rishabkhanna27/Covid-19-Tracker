@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+   padding-top: 2%;
+  padding-left: 22%;
+  padding-right: 25%; 
+  
+  /* backgrouPnd-color: aliceblue; */
+}
+@media only screen and (max-width: 770px) {
+  .container {
+    width: 100%;
+  
+  }
+}

@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+   padding-top: 1%;
+  padding-left: 22%;
+  padding-right: 25%; 
+  /* width:60%;Text-align:center;float:right; */
+  /* backgrouPnd-color: aliceblue; */
+}
+.contain{
+  Text-align:right;Width:40%;float:left;height: 100%;
+}
+@media only screen and (max-width: 770px) {
+  .container {
+    width: 100%;
+  
+  }
+}
