@@ -18,11 +18,11 @@ class App extends React.Component {
       <header className="App-header">
        <Navigation/>
        <Switch>
-       <Route path='/Covid-19-Tracker/' component={India} exact/>
-         <Route path='/Covid-19-Tracker/About' component={About} />
-         <Route path='/Covid-19-Tracker/Form' component={Formdata}/>
-         <Route path='/Covid-19-Tracker/World' component={World}  />
-         <Route path='/Covid-19-Tracker/MythBusters' component={Myth} />
+       <Route path='/' component={India} exact/>
+         <Route path='/About' component={About} />
+         <Route path='/Form' component={Formdata}/>
+         <Route path='/World' component={World}  />
+         <Route path='/MythBusters' component={Myth} />
        </Switch>
       </header>
     </div>

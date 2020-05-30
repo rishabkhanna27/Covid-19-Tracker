@@ -38,7 +38,7 @@ export const MAP_VIEWS = {
 
 export const MAP_META = {
   India: {
-    geoDataFile: `/Covid-19-Tracker/maps/india.json`,
+    geoDataFile: `/maps/india.json`,
     mapType: MAP_TYPES.COUNTRY,
     graphObjectStates: 'india-states',
     graphObjectDistricts: 'india-districts-2019-734',
